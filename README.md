@@ -1,4 +1,4 @@
-Based off Techleads documents chatbot below, with nearly all of langchain documentation in the data.txt
+Based off Techleads documents chatbot below, with all of Neo4j documentation in the data.txt
 
 
 # chatgpt-retrieval
